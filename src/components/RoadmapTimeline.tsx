@@ -33,7 +33,7 @@ function TimelineEntry({ summary }: { summary: SprintSummary }) {
         <p className="text-gray-400 mb-3">
           {summary.description}
         </p>
-        <div className="text-sm text-gray-500">{summary.startDate}</div>
+        <div className="text-sm text-gray-500">Ends: {summary.endDate}</div>
       </div>
     </div>
   );
