@@ -13,7 +13,7 @@ export interface SprintSummary {
         description: "Cross platform desktop application, basic HTTP client with simple markdown "+
         "documentation on a per-request basis. ",
         status: "current",
-        endDate: "31 Jan 2025"
+        endDate: "15 Feb 2025"
       },
       {
       sprintNumber: 1,
